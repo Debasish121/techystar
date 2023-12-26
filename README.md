@@ -1,6 +1,5 @@
 # Techystar - Responsive Frontend Website
 
-## Overview
 Techystar is a responsive frontend website built using React, JavaScript, and React Router Carousel. It aims to [provide a brief description of the website's purpose or functionality].
 
 ## Live Website
