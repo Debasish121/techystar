@@ -1,6 +1,6 @@
-# Video Hub - Responsive Frontend Website
+# Techystar - Responsive Frontend Website
 
-Video Hub is a responsive frontend website built using React, JavaScript, and Chakra UI. It aims to serve as a platform for [provide a brief description of the website's purpose or functionality].
+Techystar is a responsive frontend website built using React, JavaScript, and React Router Carousel. It aims to [provide a brief description of the website's purpose or functionality].
 
 ## Live Website
 Access the live website [here](https://video-hub-sigma-ten.vercel.app/).
@@ -18,20 +18,15 @@ Access the live website [here](https://video-hub-sigma-ten.vercel.app/).
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Debasish121/video-hub.git
+    git clone https://github.com/Debasish121/techystar.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd video-hub
+    cd techystar
     ```
 
 3. Install dependencies:
     ```bash
     npm install
     ```
-
-## Usage
-To start the development server, use the following command:
-```bash
-npm start
