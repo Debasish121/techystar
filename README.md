@@ -3,7 +3,7 @@
 Techystar is a responsive frontend website built using React, JavaScript, and React Router Carousel. It aims to [provide a brief description of the website's purpose or functionality].
 
 ## Live Website
-Access the live website [here](https://video-hub-sigma-ten.vercel.app/).
+Access the live website [here](https://techystar-lilac.vercel.app/).
 
 ## Tech Stack
 - React
